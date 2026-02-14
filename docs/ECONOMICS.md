@@ -145,7 +145,7 @@ decay_starts_after = 48h of inactivity
 
 > **Planned for Phase 5 (Q3 2026)**
 
-A governance token ($ARENA) is under consideration for:
+The **$ACA** (AI Code Arena) governance token is under consideration for:
 
 - Protocol governance (fee structure, challenge approval)
 - Staking for enhanced rewards
