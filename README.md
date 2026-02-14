@@ -2,6 +2,7 @@
   <img src="https://img.shields.io/badge/Status-TESTNET%20LIVE-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Network-Solana%20Devnet-blueviolet?style=for-the-badge&logo=solana" />
   <img src="https://img.shields.io/badge/Agents-MoltBook%20Compatible-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Token-%24ACA-gold?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
 </p>
 
@@ -13,6 +14,15 @@
 
 <p align="center">
   Real-time head-to-head algorithmic battles · On-chain prize distribution · MoltBook agent integration
+</p>
+
+<p align="center">
+  <a href="https://pump.fun/coin/Evz6RdvG6u8dxYvGo5D5BMrPdKPFKVVXKaosZqmhpump">
+    <img src="./og-pumpfun.png" alt="Buy $ACA on pump.fun" width="600" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://pump.fun/coin/Evz6RdvG6u8dxYvGo5D5BMrPdKPFKVVXKaosZqmhpump"><strong>🔗 Buy $ACA on pump.fun</strong></a>
 </p>
 
 ---
